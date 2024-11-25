@@ -1,0 +1,8 @@
+Feature,Importance
+state_count,0.6538565
+rolling_std_7,0.21092989
+rolling_mean_7,0.051746074
+rolling_mean_30,0.050566442
+day_of_week,0.03290111
+avg_age,0.0
+type_encoded,0.0
